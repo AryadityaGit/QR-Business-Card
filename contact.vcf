@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Your Full Name
+ORG:Your Company Inc.
+TITLE:Your Job Title
+TEL;TYPE=WORK,VOICE:+1234567890
+EMAIL:your.email@example.com
+URL:https://your-github-username.github.io/digital-card/
+END:VCARD

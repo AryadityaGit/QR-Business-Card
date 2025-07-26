@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Basic Service",
+    "description": "Our foundational service offering.",
+    "price": "$50"
+  },
+  {
+    "name": "Premium Package",
+    "description": "Includes all basic features plus advanced support.",
+    "price": "$150"
+  },
+  {
+    "name": "Enterprise Solution",
+    "description": "A fully customized solution for large teams.",
+    "price": "Contact Us"
+  }
+]
